@@ -10,7 +10,7 @@ namespace Ejercicio1sumaC
             pedirI pI = new pedirC();
             int i = pI.pedir();
             SumaI sI = new SumaC();
-            i = sI.suma(int n1);
+            sI.suma(i);
 
         }
     }
